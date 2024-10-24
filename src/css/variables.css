@@ -33,10 +33,10 @@
   /* color */
   --color-grayscale-0: #fff;
   --color-grayscale-1000: #000;
-  --color-greenscale-100: #D2EEEA;
-  --color-greenscale-200: #99DCD4;
-  --color-bluescale-100: #2274A3;
-  --color-bluescale-200: #00507E;
+  --color-greenscale-100: #d2eeea;
+  --color-greenscale-200: #99dcd4;
+  --color-bluescale-100: #2274a3;
+  --color-bluescale-200: #00507e;
   --background-base: var(--color-greenscale-100);
   --font-base: var(--color-bluescale-100);
   --underline-base: color-mix(in srgb, currentcolor, transparent 40%);

@@ -99,19 +99,27 @@
 }
 
 .l-section__content--sompo {
-  background: url('../images/sompo-icon.webp') no-repeat bottom 25px right 5px / 84px, var(--color-grayscale-0);
+  background:
+    url('../images/sompo-icon.webp') no-repeat bottom 25px right 5px / 84px,
+    var(--color-grayscale-0);
 }
 
 .l-section__content--sony {
-  background: url('../images/sony-icon.webp') no-repeat bottom 25px right 5px / 62px, var(--color-grayscale-0);
+  background:
+    url('../images/sony-icon.webp') no-repeat bottom 25px right 5px / 62px,
+    var(--color-grayscale-0);
 }
 
 .l-section__content--mitsui {
-  background: url('../images/mitsui-icon.webp') no-repeat bottom 25px right 5px / 77px, var(--color-grayscale-0);
+  background:
+    url('../images/mitsui-icon.webp') no-repeat bottom 25px right 5px / 77px,
+    var(--color-grayscale-0);
 }
 
 .l-section__content--zurich {
-  background: url('../images/zurich-icon.webp') no-repeat bottom 25px right 5px / 84px, var(--color-grayscale-0);
+  background:
+    url('../images/zurich-icon.webp') no-repeat bottom 25px right 5px / 84px,
+    var(--color-grayscale-0);
 }
 
 .l-product {
@@ -250,7 +258,7 @@
   .l-section {
     max-inline-size: 890px;
     margin-inline: auto;
-    padding-inline: calc(25* var(--fluid-ratio-max));
+    padding-inline: calc(25 * var(--fluid-ratio-max));
     padding-block-end: 80px;
   }
 
@@ -260,19 +268,27 @@
   }
 
   .l-section__content--sompo {
-    background: url('../images/sompo-icon.webp') no-repeat bottom 25px right 25px / 84px, var(--color-grayscale-0);
+    background:
+      url('../images/sompo-icon.webp') no-repeat bottom 25px right 25px / 84px,
+      var(--color-grayscale-0);
   }
-  
+
   .l-section__content--sony {
-    background: url('../images/sony-icon.webp') no-repeat bottom 25px right 25px / 62px, var(--color-grayscale-0);
+    background:
+      url('../images/sony-icon.webp') no-repeat bottom 25px right 25px / 62px,
+      var(--color-grayscale-0);
   }
-  
+
   .l-section__content--mitsui {
-    background: url('../images/mitsui-icon.webp') no-repeat bottom 25px right 25px / 77px, var(--color-grayscale-0);
+    background:
+      url('../images/mitsui-icon.webp') no-repeat bottom 25px right 25px / 77px,
+      var(--color-grayscale-0);
   }
-  
+
   .l-section__content--zurich {
-    background: url('../images/zurich-icon.webp') no-repeat bottom 25px right 25px / 84px, var(--color-grayscale-0);
+    background:
+      url('../images/zurich-icon.webp') no-repeat bottom 25px right 25px / 84px,
+      var(--color-grayscale-0);
   }
 
   .l-section__text {
@@ -289,7 +305,7 @@
   }
 
   .l-section__code {
-    font-size: calc(12* var(--rem-ratio));
+    font-size: calc(12 * var(--rem-ratio));
   }
 
   .l-section__list {
@@ -302,16 +318,16 @@
   }
 
   .l-card-benefit__text {
-    font-size: calc(18* var(--rem-ratio));
+    font-size: calc(18 * var(--rem-ratio));
   }
 
   .l-card-benefit__highlight {
-    font-size: calc(22* var(--rem-ratio));
+    font-size: calc(22 * var(--rem-ratio));
   }
 
   .l-card-benefit {
     row-gap: 40px;
-    padding: 48px calc(25* var(--fluid-ratio-max)) 53px;
+    padding: 48px calc(25 * var(--fluid-ratio-max)) 53px;
   }
 
   .l-card-benefit__list {
@@ -321,7 +337,7 @@
 
   .l-product {
     padding-block: 45px 47px;
-    padding-inline: calc(25* var(--fluid-ratio-max));
+    padding-inline: calc(25 * var(--fluid-ratio-max));
   }
 
   .l-product__link {

@@ -17,7 +17,6 @@ const htmlPlugins = glob
     });
   });
 
-
 module.exports = {
   mode: 'production',
   entry: './src/js/index.js',
