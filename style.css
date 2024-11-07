@@ -423,6 +423,10 @@ summary::-webkit-details-marker {
 }
 
 .l-card-benefit__item {
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: start;
+  column-gap: 5px;
   font-size: calc(12 * var(--rem-ratio));
 }
 
